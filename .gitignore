@@ -1,0 +1,9 @@
+assignment1/README.md
+*.pdf
+*datasets
+*.zip
+requirements
+*.pt
+*__pycache__
+*custom
+
