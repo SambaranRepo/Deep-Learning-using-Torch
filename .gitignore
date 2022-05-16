@@ -1,6 +1,7 @@
 assignment1/README.md
 *.pdf
 *datasets
+*dataset
 *.zip
 requirements
 *.pt
